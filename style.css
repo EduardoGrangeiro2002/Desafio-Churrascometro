@@ -1,0 +1,69 @@
+
+body{
+    background-image: url(./Imagens/conjunto-de-lousa-de-churrasco_1284-10821.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#SubTítulo{
+max-width: 35%;
+margin: auto;
+
+
+}
+
+#Fachada{
+    background-color: #f17809;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    border: solid black 2px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+#container{
+    margin: auto;
+    width: 600px;
+    height: 700px;
+    text-align: center;
+    background-color: white;
+    border: black solid 2px;
+    border-radius: 20px;
+   
+}
+.Generos{
+width: 500px;
+
+margin: 20px;
+
+padding: 10px;
+
+display: block;
+
+border-radius: 10px;
+}
+
+#churras{
+    width: 100px;
+    height: 100px;
+    
+}
+
+
+button{
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+ 
+
+}
+
+#Título{
+font-size: 36px;
+
+}
+#Extra{
+    margin-bottom: 20px;
+}
+p{
+    font-size: 22px;
+    color: black;
+}
